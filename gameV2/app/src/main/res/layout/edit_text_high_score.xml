@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/srcle">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="100"
+        android:orientation="horizontal">
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:textSize="40sp"
+        android:text="@string/New_High_Score"
+        android:textStyle="bold"
+        android:layout_weight="80"
+        android:textColor="@color/whit"
+
+></TextView>
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:layout_weight="20"
+            android:background="@drawable/award">
+
+        </ImageView>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="100"
+        android:background="@drawable/srcle">
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="70"
+            android:hint="@string/enter_your_name"
+            android:textSize="30sp"
+            android:id="@+id/edit_text"/>
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="30"
+            android:id="@+id/okBtn"
+            android:background="@drawable/okbtn"></Button>
+
+
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

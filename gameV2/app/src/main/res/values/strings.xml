@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Save Jhonny</string>
+    <string name="settings">settings</string>
+    <string name="How_To_Play">How To Play</string>
+    <string name="Exit">Exit</string>
+    <string name="New_Game">New Game</string>
+    <string name="Beack">Back</string>
+    <string name="Start_again">Start Again</string>
+    <string name="ok">ok</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="select_a_player">Select A Player</string>
+    <string name="New_High_Score">New High Score</string>
+    <string name="help_me_climb_the_stairs">help me climb the stairs</string>
+    <string name="all_the_way_to_the_top">all the way to the top</string>
+    <string name="High_Score">High Score</string>
+    <string name="Game_Over">Game Over</string>
+    <string name="Use_of_Motion_Controll">Use of Motion Controll</string>
+</resources>

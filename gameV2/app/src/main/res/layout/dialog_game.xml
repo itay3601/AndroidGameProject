@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/srcle"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/GameOverBanner"
+        android:text="@string/Game_Over"
+        android:textColor="@color/whit"
+        android:textSize="50sp"
+        android:gravity="center"
+        android:fontFamily="@font/bungee_shade"
+        android:background="@drawable/srcle"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        >
+
+    </TextView>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/New_Game"
+        android:textSize="40sp"
+        android:id="@+id/newGameBtn"
+        android:background="@drawable/srcle"
+        android:fontFamily="@font/bungee_shade"
+        android:textColor="@color/whit"
+        android:layout_below="@+id/GameOverBanner"
+        android:layout_marginTop="20dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Beack"
+        android:textSize="40sp"
+        android:id="@+id/BeakBtn"
+        android:background="@drawable/srcle"
+        android:fontFamily="@font/bungee_shade"
+        android:textColor="@color/whit"
+        android:layout_below="@id/newGameBtn"
+        />
+
+
+
+
+</RelativeLayout>

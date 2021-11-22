@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstGame</string>
+    <string name="settings">הגדרות</string>
+    <string name="How_To_Play">איך משחקים</string>
+    <string name="Exit">יציאה</string>
+    <string name="New_Game">משחק חדש</string>
+    <string name="Beack">חזור</string>
+    <string name="Start_again">התחל שוב</string>
+    <string name="ok">אישור</string>
+    <string name="enter_your_name">הזן את שמך</string>
+    <string name="select_a_player">בחר שחקן</string>
+    <string name="New_Heigh_Score">שיא חדש</string>
+    <string name="help_me_climb_the_stairs">עזור לי לטפס במדרגות</string>
+    <string name="all_the_way_to_the_top">כל הדרך למעלה</string>
+    <string name="Hiegh_Score">רשימת שיאים</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">הצל את יוני</string>
+    <string name="Beack">חזור</string>
+    <string name="Exit">יציאה</string>
+    <string name="High_Score">רשימת שיאים</string>
+    <string name="How_To_Play">איך משחקים</string>
+    <string name="New_Game">משחק חדש</string>
+    <string name="New_High_Score">שיא חדש</string>
+    <string name="Start_again">התחל שוב</string>
+    <string name="all_the_way_to_the_top">כל הדרך למעלה</string>
+    <string name="enter_your_name">הזן את שמך</string>
+    <string name="help_me_climb_the_stairs">עזור לי לטפס במדרגות</string>
+    <string name="ok">אישור</string>
+    <string name="select_a_player">בחר שחקן</string>
+    <string name="settings">הגדרות</string>
+    <string name="Game_Over">סוף משחק</string>
+    <string name="Use_of_Motion_Controll">שימוש בחיישן תנועה</string>
+</resources>
